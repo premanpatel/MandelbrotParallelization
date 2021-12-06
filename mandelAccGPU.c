@@ -53,3 +53,4 @@ void color(int red, int green, int blue)  {
         fputc((char)red,stdout);
         fputc((char)green,stdout);
         fputc((char)blue,stdout);
+}
